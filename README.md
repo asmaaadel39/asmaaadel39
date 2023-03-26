@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asmaaadel39
-- 👀 I’m interested in Data Science track.
+- 👀 I’m interested in Data Science .
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 Reach me via mail "asmaaaddel227@gmail.com"
 
